@@ -35,7 +35,7 @@ In my case I just needed to configure permissions and to add the app Boot in the
 -  [Finally you'll need to install at your workspace this app](https://api.slack.com/apps) </p>
 <img alt="img" title="#img6" src="./images/install.png">
 -  [Let's code!](https://slack.dev/java-slack-sdk/guides/web-api-basics) </p>
-<img alt="img" title="#img7" src="./images/javaapi.png">
+<img alt="img" title="#img7" src="./images/javaapi.png"> 
 
 
 
