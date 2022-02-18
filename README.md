@@ -22,20 +22,20 @@
 ## Step by step
 
 -  [Create a Slack App](https://api.slack.com/apps) </p>
-<img alt="img" title="#img1" src="./images/app.png">
+<img alt="img1" src="./images/app.png">
 -  [Add features and functionality](https://api.slack.com/apps) 
 In my case I just needed to configure permissions and to add the app Boot in the workspace because I'll to manage the requisitions in the code.</p>
-<img alt="img" title="#img2" src="./images/permissions.png">
+<img alt="img2"  src="./images/permissions.png">
 -  [Bot Token Scopes](https://api.slack.com/apps) </p>
-<img alt="img" title="#img3" src="./images/scopes.png">
+<img alt="img3"  src="./images/scopes.png">
 -  [You'll need to Add this OAuth Scopes](https://api.slack.com/apps) </p>
-<img alt="img" title="#img4" src="./images/scopesall.png">
+<img alt="img4" src="./images/scopesall.png">
 -  [Generate the token that will be used in the application(Bot User Token)](https://api.slack.com/apps) </p>
-<img alt="img" title="#img5" src="./images/tokens.png">
+<img alt="img5" src="./images/tokens.png">
 -  [Finally you'll need to install at your workspace this app](https://api.slack.com/apps) </p>
-<img alt="img" title="#img6" src="./images/install.png">
+<img alt="img6"  src="./images/install.png">
 -  [Let's code!](https://slack.dev/java-slack-sdk/guides/web-api-basics) </p>
-<img alt="img" title="#img7" src="./images/javaapi.png"> 
+<img alt="img7"  src="./images/javaapi.png"> 
 
 
 
